@@ -1,6 +1,6 @@
 # Design and implementation of a warning system for approaching objects to the white cane of the blind
 
-By  Sepehr Farahani and [M. B. Ghaznavi-Ghoushchi](https://github.com/ghoushchi).
+By  [Sepehr Farahani](https://www.linkedin.com/in/sepehr-farahani-29331a296) and [M. B. Ghaznavi-Ghoushchi](https://github.com/ghoushchi).
 
 In this repository, we released ALL the codes and design details of an Smart Cane to promote safer accessibility and inclusion for people with such disabilities and to help in support their independence and mobility. 
 
