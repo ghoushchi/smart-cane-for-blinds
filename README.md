@@ -8,8 +8,6 @@ In this repository, we released ALL the codes and design details of an Smart Can
 
 ![smart-cane-for-blinds](media/smart-cane-for-blinds.png)
 
-Note: If you see problems in max/nst due to fonts (with un-readable fonts or extra font sizes), you must recheck the fonts installation step again with care.
-
 
 ![smart-cane-for-blinds](media/smart-cane-for-blinds.mp4)
 
